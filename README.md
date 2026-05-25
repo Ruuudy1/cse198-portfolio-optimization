@@ -2,7 +2,7 @@
 
 **Rudy Osuna - UC San Diego - CSE 198**
 
-A graduate seminar on modern portfolio theory: why the textbook version breaks in practice, how linear algebra reshapes the problem, and how options unlock volatility as a tradable asset.
+A seminar on modern portfolio theory: why the textbook version breaks in practice, how linear algebra reshapes the problem, and how options unlock volatility as a tradable asset.
 
 ---
 
