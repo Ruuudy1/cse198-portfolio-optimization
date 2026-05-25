@@ -55,3 +55,8 @@ Options make P&L nonlinear: dPnL is approximately Delta times dS plus one-half G
 ## Animations
 
 All 19 scenes were built with [Manim Community](https://www.manim.community/) (3Blue1Brown's engine) at 3840x2160 / 60 fps.
+
+
+---
+
+<sub><sup>Generative AI tools used to polish lecture notes*</sup></sub>
